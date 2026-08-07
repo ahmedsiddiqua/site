@@ -60,14 +60,14 @@ export const projects: ProjectItem[] = [
     category: "college-projects",
     icon: icqsIcon,
     description: "Manage different queues and assign different roles to different email IDs. Also manage priority.",
-  },
+  },/*
   {
     label: "Rent Track-Kar",
     href: "https://github.com/asterhyphen/rent-track-kar",
     category: "websites-apps",
     icon: rentTrackKarIcon,
     description: "Track rent and other shared expenses and directly send pre-formatted message.",
-  },
+  },*/
   {
     label: "Geo-Tag Camera",
     href: "https://github.com/asterhyphen/geotag-camera",
