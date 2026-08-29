@@ -25,7 +25,7 @@ export default function Terminal() {
         </h2>
       </div>
 
-      <div style={{ textAlign: "left", width: "100%", maxWidth: "600px", marginTop: "1rem" }}>
+      <div style={{ textAlign: "left", width: "100%", maxWidth: "900px", marginTop: "1rem" }}>
         <h3 className="section-title">About Me</h3>
         <ul>
           {about.map((line, idx) => (
